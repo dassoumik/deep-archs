@@ -24,7 +24,10 @@ variations. Additionally, AI-powered **certification verification** streamlines 
 **scalable, cost-efficient AI-human hybrid system** enhances accuracy, efficiency, and fairness, reinforcing
 **Certifiable, Inc.'s** position as a leader in software architecture certification.
 
-## Video Presentation 
+## Video Presentation (full length video)
+[![Video Presentation on AI Based Solutions](https://img.youtube.com/vi/AsNCgbqTvg0/0.jpg)](https://youtu.be/AsNCgbqTvg0)
+
+## Video Presentation (5-minute video submitted as part of the O'Rielly's Architecture Karta Winter Challenge 2025)
 [![Video Presentation on AI Based Solutions](https://img.youtube.com/vi/3ylwsr-H2U8/0.jpg)](https://www.youtube.com/watch?v=3ylwsr-H2U8)
 
 ## Diagrams
